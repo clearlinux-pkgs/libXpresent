@@ -4,7 +4,7 @@
 #
 Name     : libXpresent
 Version  : 1.0.0
-Release  : 1
+Release  : 2
 URL      : https://www.x.org/releases/individual/lib/libXpresent-1.0.0.tar.gz
 Source0  : https://www.x.org/releases/individual/lib/libXpresent-1.0.0.tar.gz
 Summary  : X Present  Library
